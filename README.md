@@ -1,6 +1,6 @@
 # 👩‍🏫💻andykucherenko
 
-![title](https://github.com/andykucherenko/andykucherenko/assets/122628604/e491b9bc-26b8-4d91-8f73-ccfcbada0694)
+![title](https://github.com/andykucherenko/andykucherenko/assets/122628604/396a8bdb-a1ac-4392-b1c7-144dd90660b6)
 
 
 Aspiring QA Engineer dedicated to continuous professional development in this dynamic field. With sharp eye for details, honed through my previous work experience, exceptional communication skills and knowledge in Web & API & Database Testing Tools I thrive on maintaining high standards and delivering top-notch quality. I'm eager to contribute my skills as a QA Engineer and would be delighted to work with you, making a valuable impact on your projects!
