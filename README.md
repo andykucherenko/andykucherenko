@@ -1,4 +1,4 @@
-# 👩‍🏫💻andykucherenko
+# 🙋‍♂️💻andykucherenko
 
 ![title](https://github.com/andykucherenko/andykucherenko/assets/122628604/396a8bdb-a1ac-4392-b1c7-144dd90660b6)
 
