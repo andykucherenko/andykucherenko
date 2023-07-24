@@ -26,7 +26,7 @@ Aspiring QA Engineer dedicated to continuous professional development in this dy
 - [Docker-Node](https://github.com/andykucherenko/DockerNodeHW)
 - [Allure Reporting](https://github.com/andykucherenko/AllureReporting)
 - [API Postman testing](https://github.com/andykucherenko/TestingAPI-Postman-Echo)
-- [OA Diploma](https://github.com/andykucherenko/qa-diploma)
+- [QA Diploma](https://github.com/andykucherenko/qa-diploma)
 - [RPG](https://github.com/andykucherenko/RPG)
 
 #
